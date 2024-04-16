@@ -1,0 +1,17 @@
+D:\ConversorDeMetrosAPies_Csharp\CursoPeticionesAPI\bin\Debug\net6.0\CursoPeticionesAPI.exe
+D:\ConversorDeMetrosAPies_Csharp\CursoPeticionesAPI\bin\Debug\net6.0\CursoPeticionesAPI.deps.json
+D:\ConversorDeMetrosAPies_Csharp\CursoPeticionesAPI\bin\Debug\net6.0\CursoPeticionesAPI.runtimeconfig.json
+D:\ConversorDeMetrosAPies_Csharp\CursoPeticionesAPI\bin\Debug\net6.0\CursoPeticionesAPI.dll
+D:\ConversorDeMetrosAPies_Csharp\CursoPeticionesAPI\bin\Debug\net6.0\CursoPeticionesAPI.pdb
+D:\ConversorDeMetrosAPies_Csharp\CursoPeticionesAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ConversorDeMetrosAPies_Csharp\CursoPeticionesAPI\obj\Debug\net6.0\CursoPeticionesAPI.csproj.AssemblyReference.cache
+D:\ConversorDeMetrosAPies_Csharp\CursoPeticionesAPI\obj\Debug\net6.0\CursoPeticionesAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConversorDeMetrosAPies_Csharp\CursoPeticionesAPI\obj\Debug\net6.0\CursoPeticionesAPI.AssemblyInfoInputs.cache
+D:\ConversorDeMetrosAPies_Csharp\CursoPeticionesAPI\obj\Debug\net6.0\CursoPeticionesAPI.AssemblyInfo.cs
+D:\ConversorDeMetrosAPies_Csharp\CursoPeticionesAPI\obj\Debug\net6.0\CursoPeticionesAPI.csproj.CoreCompileInputs.cache
+D:\ConversorDeMetrosAPies_Csharp\CursoPeticionesAPI\obj\Debug\net6.0\CursoPeticionesAPI.csproj.CopyComplete
+D:\ConversorDeMetrosAPies_Csharp\CursoPeticionesAPI\obj\Debug\net6.0\CursoPeticionesAPI.dll
+D:\ConversorDeMetrosAPies_Csharp\CursoPeticionesAPI\obj\Debug\net6.0\refint\CursoPeticionesAPI.dll
+D:\ConversorDeMetrosAPies_Csharp\CursoPeticionesAPI\obj\Debug\net6.0\CursoPeticionesAPI.pdb
+D:\ConversorDeMetrosAPies_Csharp\CursoPeticionesAPI\obj\Debug\net6.0\CursoPeticionesAPI.genruntimeconfig.cache
+D:\ConversorDeMetrosAPies_Csharp\CursoPeticionesAPI\obj\Debug\net6.0\ref\CursoPeticionesAPI.dll
